@@ -1,4 +1,4 @@
-# Fluffy
+#  Fluffy
 
 **Platform:** Hack The Box  
 **Status:** Retired  
