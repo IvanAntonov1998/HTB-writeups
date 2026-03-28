@@ -1,4 +1,4 @@
-# Footprinting Lab - Medium
+#  Footprinting Lab - Medium
 
 - **Platform:** HTB Academy / Lab
 - **Status:** Retired / Practice Lab
