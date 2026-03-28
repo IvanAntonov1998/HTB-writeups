@@ -1,4 +1,4 @@
-# MonitorsFour
+#  MonitorsFour
 
 - **Platform:** Hack The Box
 - **Status:** Retired
